@@ -1,6 +1,7 @@
 # URL_SHORTNER
 A Backend Application built using Node.js, Express and MongoDB that will give you an shorter version of an URL that is passed  
 ## API 
+BaseUrl is for now your localhost
 <table>
 <thead>
     <th>
