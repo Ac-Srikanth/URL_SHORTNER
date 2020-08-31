@@ -1,0 +1,21 @@
+{
+  "name": "url-shortner",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "express-ip": "^1.0.4",
+    "express-useragent": "^1.0.13",
+    "mongoose": "^5.9.21",
+    "ngrok": "^3.2.7",
+    "shorthash": "0.0.2",
+    "validator": "^13.1.1"
+  }
+}
